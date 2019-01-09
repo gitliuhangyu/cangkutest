@@ -10,6 +10,7 @@ import java.util.List;
 @RestController
 public class GirlController {
 
+    //测试修改后提交到github
     @Autowired//注入GirlDaoInf类
     GirlDaoInf girlDaoInf;
 
